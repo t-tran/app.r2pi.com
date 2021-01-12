@@ -1,0 +1,5 @@
+.terraform
+_variables.tf
+private-keys
+terraform.tfstate
+terraform.tfstate.backup
